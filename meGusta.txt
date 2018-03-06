@@ -1,0 +1,7 @@
+comida favorita:
+estofado
+
+bebidas favoritas:
+cerveza
+vino
+agua
